@@ -1,0 +1,5 @@
+#OUTPUT_FILENAME output_exodus
+#GRID_DIMENSION 382 272
+#GEOMETRY geometry_Shallow.i
+#REFINEMENT refinement.i
+#CHECK_MESH YES 0.1

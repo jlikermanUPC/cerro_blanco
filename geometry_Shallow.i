@@ -1,0 +1,6 @@
+geometry/copernicus_dem_3857.xyz GRID_DATA
+geometry/copernicus_dem_3857_minus-1500m.xyz GRID_DATA
+geometry/copernicus_dem_3857_minus-200m.xyz GRID_DATA
+geometry/copernicus_dem_3857_minus-2500m.xyz GRID_DATA
+geometry/copernicus_dem_3857_minus-3500m.xyz GRID_DATA
+geometry/copernicus_dem_3857_minus-800m.xyz GRID_DATA
